@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lumos Demo</title>
+
+    <style>
+        body {
+            font-family: sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>Lumos Demo App</h1>
+
+    <script>
+        const greet = () => {
+            const name = document.getElementById('name').value;
+            window.location = '/greet/' + name;
+        }
+    </script>
+
+    <form action="javascript:greet()">
+        <label for="name">Name:</label>
+        <input type="text" name="name" id="name">
+        <button type="submit">Greet</button>
+    </form>
+</body>
+</html>
