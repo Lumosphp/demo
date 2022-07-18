@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Lumosphp/lumos.git",
-                "reference": "1e7b55395dd39f47fab0e3464005fb85a9b61ed5"
+                "reference": "2d2c40fffd1e1e49dd488544d323cdd23a46405f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Lumosphp/lumos/zipball/1e7b55395dd39f47fab0e3464005fb85a9b61ed5",
-                "reference": "1e7b55395dd39f47fab0e3464005fb85a9b61ed5",
+                "url": "https://api.github.com/repos/Lumosphp/lumos/zipball/2d2c40fffd1e1e49dd488544d323cdd23a46405f",
+                "reference": "2d2c40fffd1e1e49dd488544d323cdd23a46405f",
                 "shasum": ""
             },
             "require": {
@@ -52,7 +52,7 @@
                 "issues": "https://github.com/Lumosphp/lumos/issues",
                 "source": "https://github.com/Lumosphp/lumos/tree/main"
             },
-            "time": "2022-07-17T11:59:14+00:00"
+            "time": "2022-07-18T10:44:28+00:00"
         },
         {
             "name": "lumosphp/templating",
